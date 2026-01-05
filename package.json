@@ -54,7 +54,7 @@
     "i18next": "^19.3.3",
     "i18next-browser-languagedetector": "^4.0.2",
     "i18next-xhr-backend": "^3.2.2",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.0.0",
     "jspdf-autotable": "^3.5.3",
     "jspreadsheet": "^8.7.0",
     "jsuites": "^5.4.6",
